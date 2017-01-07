@@ -5,6 +5,7 @@ import {AdminPage} from '../adminpage/adminpage';
 import {AngularFire,AuthProviders,AuthMethods,FirebaseListObservable} from 'angularfire2';
 
 
+
 @Component({
   selector: 'login-page',
   templateUrl: 'login.html'
