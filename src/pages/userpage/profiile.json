@@ -1,0 +1,85 @@
+{
+
+"profile":[{
+    "id":2,
+    "type":"user",
+    "name":"Ahmed",
+    "email":"ahmed@yahoo.com",
+    "birthdate":"20/10/2013",
+    "img": "",
+    "posts":[
+             {
+                "id":1,
+                "type":"public",
+                "title":"THE TITLE TEST",
+                "body":"THIS IS THE BODY WE ARE HERE TO TEST OUT BODY",
+                "date":"12/4/2014",
+                "likes":2,
+                "comments":[{
+                             "id":1,
+                             "text":"This is a comment test"
+                           }]
+             }
+           ],
+    "friends":[
+               {
+                "id":"3"
+               }
+              ]
+},
+{
+    "id":3,
+    "type":"user",
+    "name":"Ahmed",
+    "email":"user@yahoo.com",
+    "birthdate":"20/10/2013",
+    "img": "",
+    "posts":[
+             {
+                "id":1,
+                "type":"public",
+                "title":"THE TITLE TEST",
+                "body":"THIS IS THE BODY WE ARE HERE TO TEST OUT BODY",
+                "date":"12/4/2014",
+                "likes":2,
+                "comments":[{
+                             "id":1,
+                             "text":"This is a comment test"
+                           }]
+             }
+           ],
+    "friends":[
+               {
+                "id":"3"
+               }
+              ]
+},
+{
+    "id":3,
+    "type":"admin",
+    "name":"Mido",
+    "email":"admin@yahoo.com",
+    "birthdate":"20/10/2013",
+    "img": "",
+    "posts":[
+             {
+                "id":1,
+                "type":"public",
+                "title":"THE TITLE TEST",
+                "body":"THIS IS THE BODY WE ARE HERE TO TEST OUT BODY",
+                "date":"12/4/2014",
+                "likes":2,
+                "comments":[{
+                             "id":1,
+                             "text":"This is a comment test"
+                           }]
+             }
+           ],
+    "friends":[
+               {
+                
+               }
+              ]
+}]
+
+}
